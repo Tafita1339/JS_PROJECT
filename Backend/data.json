@@ -2,9 +2,9 @@
   "task": [
     {
       "id": 3,
-      "nom": "Module facturation Odoo natif",
-      "responsable": "Developpeur Odoo Tolotra",
-      "description": "Pérsonnaliser les vues, et les models de l'odoo natif selon la demande duc client..",
+      "nom": "Module facturation vue.js natif",
+      "responsable": "Developpeur Js Fabrice",
+      "description": "Pérsonnaliser les vues, et les models de l'Vue.js natif selon la demande duc client..",
       "date": "2021-10-26",
       "statut": "Bloque"
     },
