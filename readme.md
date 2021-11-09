@@ -25,7 +25,7 @@
   </a>
     
   <!-- GitHub repo -->
-  <a href="https://github.com/rivo2302/">
+  <a href="https://github.com/Tafita1339">
     <img src="https://img.shields.io/static/v1?logo=github&message=star&color=green&label=Github"
       alt="GitHub repo" />
   </a>     
@@ -56,8 +56,8 @@ Une minimal application `web` consu avec flask , vueJs et Json
 
 
 ### Clôner le projet  
-- `$ git clone git@github.com:rivo2302/Minimal-web-application.git`
-- `$ cd Minimal-web-application`
+- `$ git clone git@github.com:Tafita1339/JS_PROJECT.git`
+- `$ cd JS_PROJECT`
 
 
 ### Mise en place du  MISE EN PLACE DU BACK-END
