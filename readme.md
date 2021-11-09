@@ -37,11 +37,7 @@
   </a>   
 
 
-  <!-- IZARA -->
-  <a href="https://www.facebook.com/AVANA-HUB-222214588337602">
-    <img src="https://img.shields.io/static/v1?message=Izaragency&color=critical&label=Entreprise"
-      alt="IZARAGENCY" />
-  </a> 
+
 </div>
 
 [![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
@@ -83,7 +79,7 @@ Vérifier à ce que le port 8080 soir libre
 
 Vous pouvez maintenant regarder le resultat dans  `http://localhost:8080/`
 
-# TESTE CHEZ IZARAGENCY
+
 
 
 
