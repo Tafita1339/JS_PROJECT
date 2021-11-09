@@ -1,0 +1,13 @@
+#Les dossiers et fichier à  ignorer
+
+Backend/__pycache__/
+Backend/env/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+node_modules/
+package-lock.json

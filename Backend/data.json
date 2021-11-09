@@ -1,0 +1,68 @@
+{
+  "task": [
+    {
+      "id": 3,
+      "nom": "Module facturation Odoo natif",
+      "responsable": "Developpeur Odoo Tolotra",
+      "description": "Pérsonnaliser les vues, et les models de l'odoo natif selon la demande duc client..",
+      "date": "2021-10-26",
+      "statut": "Bloque"
+    },
+    {
+      "id": 4,
+      "nom": "Backup de la base de données",
+      "responsable": "Mendrika - Administrateur système",
+      "description": " Vous devez créer un script pour faire un backup de la base de nonnées tous les jours.",
+      "date": "19/10/2021",
+      "statut": "En cours"
+    },
+    {
+      "id": 5,
+      "nom": "Migration",
+      "responsable": "Developpeur Odoo Tolotra",
+      "description": "Migrer toutes les données d'un Odoo version vers un odoo version 14.",
+      "date": "01/10/2020",
+      "statut": "Fini"
+    },
+    {
+      "id": 7,
+      "nom": "Nouveau module",
+      "responsable": "RAJAONARIVONY Rivo Lalaina",
+      "description": "Créer un nouveau module customisés pour gérer les salles de réunion de l'entreprise.",
+      "date": "2021-10-21",
+      "statut": "Fini"
+    },
+    {
+      "id": 8,
+      "nom": "Formation5",
+      "responsable": "DP Christophe5",
+      "description": "Essaie",
+      "date": "2021-10-06",
+      "statut": "Fini"
+    },
+    {
+      "id": 9,
+      "nom": "Suivi du projet",
+      "responsable": "Rivomanitra",
+      "description": "Maintenir le projets durant la phase de teste.",
+      "date": "10/09/2020",
+      "statut": "Fini"
+    },
+    {
+      "id": 10,
+      "nom": "Livraison ",
+      "responsable": "DP Jul",
+      "description": "Livrér le projet un fois bien testé au près des clients.",
+      "date": "10/10/2020",
+      "statut": "Fini"
+    },
+    {
+      "id": 11,
+      "nom": "odoo12",
+      "responsable": "MIoratiana",
+      "description": "Une tâche pour installer Odoo12",
+      "date": "2021-10-27",
+      "statut": "Fini"
+    }
+  ]
+}

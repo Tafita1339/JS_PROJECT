@@ -1,0 +1,8 @@
+POST /api/read HTTP/1.1
+Host: localhost:4444
+Content-Type: application/json
+
+#Les élements à envoyer
+{
+    "id":2
+}
