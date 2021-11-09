@@ -11,17 +11,17 @@
     {
       "id": 4,
       "nom": "Backup de la base de données",
-      "responsable": "Mendrika - Administrateur système",
+      "responsable": "Antra Nomenjanahary - Administrateur système",
       "description": " Vous devez créer un script pour faire un backup de la base de nonnées tous les jours.",
-      "date": "19/10/2021",
+      "date": "2021-11-09",
       "statut": "En cours"
     },
     {
       "id": 5,
       "nom": "Migration",
-      "responsable": "Developpeur Odoo Tolotra",
+      "responsable": "Developpeur Odoo Haritiana Tommy",
       "description": "Migrer toutes les données d'un Odoo version vers un odoo version 14.",
-      "date": "01/10/2020",
+      "date": "2021-11-03",
       "statut": "Fini"
     },
     {
@@ -46,22 +46,6 @@
       "responsable": "Rivomanitra",
       "description": "Maintenir le projets durant la phase de teste.",
       "date": "10/09/2020",
-      "statut": "Fini"
-    },
-    {
-      "id": 10,
-      "nom": "Livraison ",
-      "responsable": "DP Jul",
-      "description": "Livrér le projet un fois bien testé au près des clients.",
-      "date": "10/10/2020",
-      "statut": "Fini"
-    },
-    {
-      "id": 11,
-      "nom": "odoo12",
-      "responsable": "MIoratiana",
-      "description": "Une tâche pour installer Odoo12",
-      "date": "2021-10-27",
       "statut": "Fini"
     }
   ]

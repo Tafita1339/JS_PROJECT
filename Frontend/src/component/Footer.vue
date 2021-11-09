@@ -7,7 +7,7 @@
                 <div class="container padding-tb-50px">
                     <div class="row">
                         <div class="col-lg-6">
-                            <div class="copy-right-text text-lg-left text-center sm-mb-15px"><a target="_blank" href="#" style="color:#fff"><b>IZARAGENCY</b></a> </div>
+                            <div class="copy-right-text text-lg-left text-center sm-mb-15px"><a target="_blank" href="#" style="color:#fff"><b>JS PROJECT</b></a> </div>
                         </div>
                         <div class="col-lg-6">
                             <ul class="social-media list-inline text-lg-right text-center margin-0px text-white">
